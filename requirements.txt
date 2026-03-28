@@ -1,0 +1,10 @@
+gymnasium
+stable-baselines3[extra]
+shimmy>=2.0
+mujoco
+numpy
+pandas
+scikit-learn
+matplotlib
+scipy
+torch
